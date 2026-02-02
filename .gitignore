@@ -8,6 +8,10 @@
 /logs/
 /tmp/
 
+# JetBrains IDE
+.idea/
+*.iml
+
 # Ключи и сертификаты
 *.key
 *.pem
